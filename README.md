@@ -1,3 +1,3 @@
-# datasourcetesting
+# Datasource Testing
 
-A new Flutter project.
+> Students exercise for mastery testing on datasource layer.
